@@ -1,4 +1,10 @@
-## Proyecto Final Arquitectura del Computador 1
+# Proyecto Final Arquitectura del Computador 1
+
+## Primera Parte (10 pts.)
+Realizar una presentación que resuma todos los conceptos aprendidos en clase. La misma no debe durar más de 10 minutos, pero debe incluir la mayoría de temas vistos en clase. Trate de ser creativo en su presentación. La fecha de presentación será el **Miércoles 25 de Abril en horario de clase**.
+
+
+## Segunda Parte (20 pts.)
 ### 1. Implementar el soft-processor Microblaze en la tarjeta Basys 3 utilizando Vivado.
 
 Para implementar este procesador es necesario que investiguen en que consiste el procesador Microblaze. Su arquitectura intera y su principio de funcionamiento. Es importante que investiguen en que consisten los GPIOs y que es un Canal. En clase se dará un laboratorio de implementación de este procesador para que el alumno se familiarice con los conceptos generales del procesador Microblaze.
