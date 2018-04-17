@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Auto Detect" key="microblaze_wrapper_hw_platform_0-device"/>
+	<item value="microblaze_wrapper.mmi" key="microblaze_wrapper_hw_platform_0-bmmFile"/>
+	<item value="Auto Detect" key="ZC702_hw_platform-device"/>
+	<item value="microblaze_wrapper_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="bootloop" key="microblaze_wrapper_hw_platform_0-microblaze_0-initElf"/>
+	<item value="Local" key="ZC702_hw_platform-target"/>
+	<item value="/home/manuel/Desktop/LED_Switch/LED_Switch.runs/impl_1/microblaze_wrapper.bit" key="ZC702_hw_platform-bitFile"/>
+	<item value="Local" key="microblaze_wrapper_hw_platform_0-target"/>
+	<item value="microblaze_wrapper.bit" key="microblaze_wrapper_hw_platform_0-bitFile"/>
+	<item value="false" key="microblaze_wrapper_hw_platform_0-partial_bit"/>
+	<item value="" key="ZC702_hw_platform-bmmFile"/>
+	<item value="false" key="ZC702_hw_platform-partial_bit"/>
+</section>
